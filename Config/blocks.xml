@@ -1,3 +1,4 @@
-<configs>
+<fast-crop-growth>
+    <!-- adjusting from default of 63.0 -->
     <set xpath="/blocks/block[@name='cropsGrowingMaster']/property[@name='PlantGrowing.GrowthRate']/@value">2.0</set>
-</configs>
+</fast-crop-growth>
